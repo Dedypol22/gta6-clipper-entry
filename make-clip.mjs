@@ -51,8 +51,8 @@ const CAPTIONS = [
   { text: "ONLY IN VICE CITY", from: 0.4, to: 5.0 },
   { text: "LUCIA IS ALREADY ICONIC", from: 5.0, to: 9.0 },
   { text: "THE MAP IS MASSIVE", from: 9.0, to: 13.0 },
-  { text: "HE RODE THE PLANE?!", from: 13.0, to: 16.5 },
-  { text: "GTA VI DROPS MAY 26 2026", from: 16.5, to: 25.8 },
+  { text: "HE RODE THE PLANE?!", from: 12.3, to: 14.8 },
+  { text: "GTA VI DROPS MAY 26 2026", from: 14.8, to: 25.8 },
 ];
 
 function buildSegment() {
