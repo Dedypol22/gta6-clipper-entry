@@ -1,0 +1,8 @@
+# Large media and build products stay out of the repository.
+source/
+frames/
+build/
+out/
+clip-final.mp4
+*.tar.gz
+node_modules/
