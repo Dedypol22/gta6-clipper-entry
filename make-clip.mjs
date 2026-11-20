@@ -52,7 +52,7 @@ const CAPTIONS = [
   { text: "LUCIA IS ALREADY ICONIC", from: 5.0, to: 9.0 },
   { text: "THE MAP IS MASSIVE", from: 9.0, to: 13.0 },
   { text: "HE RODE THE PLANE?!", from: 12.3, to: 14.8 },
-  { text: "GTA VI IS OUT NOW", from: 14.8, to: 25.8 },
+  { text: "GTA VI IS OUT NOW", from: 14.8, to: 25.8 }, // GTA VI launched 19 Nov 2026 — the old "DROPS MAY 26 2026" caption was the outdated schedule
 ];
 
 function buildSegment() {
